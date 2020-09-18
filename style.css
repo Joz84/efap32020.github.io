@@ -1,0 +1,93 @@
+body {
+  font-family: arial;
+  text-align: center;
+  background: yellow;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: brown;
+}
+
+ul, h3 {
+  text-align: left;
+}
+
+a {
+  border: solid 3px green;
+  background: lightgreen;
+}
+
+a:hover {
+  border: solid 3px red;
+  background: pink;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+
+
+
+}
+
+.sug {
+  width: 200px;
+}
+
+.red-border {
+  border: solid 10px red;
+}
+
+.cadre {
+  border: solid 10px blue;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 5px;
+  background: white;
+}
+
+.black {
+  background: grey;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+.blue {
+  background: blue;
+  width: 100px;
+  height: 200px;
+}
+
+.white {
+  background: white;
+  width: 100px;
+  height: 200px;
+}
+
+.red {
+  background: red;
+  width: 100px;
+  height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
